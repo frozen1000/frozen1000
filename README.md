@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @frozen1000. es decir Olga A. Estoy en el grupo 49 de MINTIC 2022
+- 👋 Hi, I’m @frozen1000. es decir Olga A. Estoy en el grupo 67 de MINTIC 2022
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning:  📌 C#, 📌 python, 📌 C#,📌 .NET CORE,📌 Html,📌 Css,📌 JavaScript,📌 Nodejs
 
 
 <!---
